@@ -2,7 +2,7 @@
 <h3 align="center">computer engineer</h3>
 
 - 🔭 I’m currently learning javascript and React
--  Ask me about Html , Css , Javascript... 
+-  Ask me about Rap... 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
