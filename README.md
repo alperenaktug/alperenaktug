@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning **React.js , Node.js**
 
 - 📫 How to reach me 
-  aktugalperen9@gmail.com 
+  aktugalperen9@gmail.com
+- Portfolio :
+ https://portfolio-vercell-app11.vercel.app/
 <p align="left">
 </p>
 
