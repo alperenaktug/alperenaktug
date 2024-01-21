@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **React.js , Node.js**
 
-- 📫 How to reach me **aktugalperen9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me 
+  aktugalperen9@gmail.com 
 <p align="left">
 </p>
 
