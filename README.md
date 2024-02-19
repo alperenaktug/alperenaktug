@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenaktug" alt="alperenaktug" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript
+- 🔭 I’m currently working on **Javascript ,React.js
 
-- 🌱 I’m currently learning **React.js , Node.js**
+- 🌱 I’m currently learning ** Node.js
 
 - 📫 How to reach me 
   aktugalperen9@gmail.com
