@@ -13,7 +13,6 @@
   aktugalperen9@gmail.com
 - Portfolio :
 https://alperenaktug.vercel.app/
-- Linkedin : in/alperen-aktuğ-146175195
 <p align="left">
 </p>
 
