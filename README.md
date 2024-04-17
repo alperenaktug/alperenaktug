@@ -12,7 +12,7 @@
 - 📫 How to reach me 
   aktugalperen9@gmail.com
 - Portfolio :
-https://alperenaktug.vercel.app/
+https://myportfolio-delta-one.vercel.app/
 <p align="left">
 </p>
 
