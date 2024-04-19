@@ -13,6 +13,7 @@
   aktugalperen9@gmail.com
 - Portfolio :
 https://myportfolio-delta-one.vercel.app/
+https://alperenaktug.vercel.app/
 <p align="left">
 </p>
 
