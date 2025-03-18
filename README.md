@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenaktug" alt="alperenaktug" /></a> </p>
 
-- 🔭 I’m currently working on ** React 
+- 🔭 I’m currently working on ** Java 
 
-- 🌱 I’m currently learning ** Java 
+- 🌱 I’m currently learning ** Springboot
 
 - 📫 How to reach me 
   aktugalperen9@gmail.com
