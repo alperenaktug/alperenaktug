@@ -63,9 +63,7 @@ https://alperenaktug.vercel.app/
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://microservices.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354262/microservices.svg" alt="microservices" width="40" height="40"/>
-  </a>
+  
   
  
 </p>  
