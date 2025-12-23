@@ -12,7 +12,7 @@
 - 📫 How to reach me 
   aktugalperen9@gmail.com
 - Portfolio : 
-https://my-portfolio-git-main-alperens-projects-4533424c.vercel.app/    
+https://my-portfolio-ten-lyart-61.vercel.app/    
   
 
 <p align="left">
