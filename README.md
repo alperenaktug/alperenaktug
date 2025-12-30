@@ -72,12 +72,12 @@ https://my-portfolio-ten-lyart-61.vercel.app/
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   </a> 
   
-
 </p>  
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenaktug&show_icons=true&locale=en&layout=compact" alt="alperenaktug" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenaktug&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenaktug&show_icons=true&locale=en" alt="alperenaktug" /></p>
 
