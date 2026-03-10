@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenaktug" alt="alperenaktug" /></a> </p>
 
-- 🔭 I’m currently working on ** Java , React
+- 🔭 I’m currently working on ** Python , AI , Springboot , React  
 
-- 🌱 I’m currently learning ** Springboot
+- 🌱 I’m currently learning ** System and Network , ASP.NET
 
 - 📫 How to reach me 
   aktugalperen9@gmail.com
