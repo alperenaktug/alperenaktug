@@ -83,5 +83,4 @@
 </p>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenaktug&show_icons=true&locale=en" alt="alperenaktug" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenaktug&" alt="alperenaktug" /></p>
